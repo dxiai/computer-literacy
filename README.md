@@ -1,4 +1,4 @@
-# *digital-literacy* durch *digital emanzipation*
+# *digital-literacy* through *digital emanzipation*
 Ein Beitrag zur digitale Emanzipation während des Bachelorstudiums
 
 ### Ausgangslage
