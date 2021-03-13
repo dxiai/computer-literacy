@@ -8,7 +8,7 @@ Obschon praktisch alle angehenden Studierenden über ein Smartphone verfügen, i
 ### Motivation
 Von den ca. 500 angehenden Bachelorstudierenden gehören etwa 10% zur Gruppe A an. Dieser Gruppe von Studierenden wollen wir Grundfertigkeiten vermitteln, um sie zu befähigen, sich im Laufe des Studiums, digital zu emamzipieren und ihre persönliche *digital literacy* auszubauen. In Wikipedia finden wir zu *Digital literacy*: *"Digitale Kompetenz bezieht sich auf die Fähigkeit einer Person, klare Informationen durch Schreiben und andere Medien auf verschiedenen digitalen Plattformen zu finden, zu bewerten und zusammenzustellen.* Die Fähigkeit wird am Ende des Bachelorstudiums mit der Bachelorarbeit überprüft und kann nur entwickelt werden, wenn zuvor eine persönliche digital Emanzipation stattgefunden hat, was soviel bedeutet wie: Zum Informationsproduzenten zu werden anstatt sich mit dem Konsum von Information zu bengnügen. Dieser Kurs trägt seinen Teil zur digitalen Emanzipation bei und vermittelt einfache digitale Kompetenzen, die zu ersten Erfolgen im Umgang mit den an der ZHAW benötigten Technologien führt.
 
-## Ziel des 4-5 tägeigen Kurses
+## Ziel des 4-5 tägigen Kurses
 Die Teilnehmenden sollen:
 - Ängste abbauen
 - Selbstvertrauen durch eine schrittweise digitale Emanzipation entwickeln
